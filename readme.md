@@ -23,7 +23,7 @@ This app allows users to:
 
 ## 🌐 Live Demo (Add your link after deployment)
 ```
-https://neostats-yourname.streamlit.app
+https://aman245002-rag-chatbot-app-hsodau.streamlit.app/
 ```
 
 ---
