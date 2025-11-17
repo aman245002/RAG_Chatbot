@@ -1,0 +1,12 @@
+streamlit>=1.20.0
+python-dotenv
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+transformers
+openai
+pdfplumber
+pypdf
+requests
+langchain

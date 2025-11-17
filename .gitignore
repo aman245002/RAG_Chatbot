@@ -1,0 +1,6 @@
+.env
+vectorstore/
+uploads/
+venv/
+__pycache__/
+*.pyc
