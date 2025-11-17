@@ -21,10 +21,10 @@ This app allows users to:
 
 ---
 
-## 🌐 Live Demo (Add your link after deployment)
-```
+## 🌐 Live Demo 
+
 https://aman245002-rag-chatbot-app-hsodau.streamlit.app/
-```
+
 
 ---
 # 📸 Screenshots
