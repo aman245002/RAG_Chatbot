@@ -27,6 +27,13 @@ https://neostats-yourname.streamlit.app
 ```
 
 ---
+# 📸 Screenshots
+
+### 🔹 Home Screen  
+<img src="pic1.jpeg" width="700px">
+
+### 🔹 Chat + RAG Retrieval + Web Search Example  
+<img src="pic2.jpeg" width="700px">
 
 ## 📁 Project Structure
 
